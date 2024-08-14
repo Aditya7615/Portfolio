@@ -30,8 +30,8 @@ body {
 
 #page {
     position: relative;
-    height: 100vh;
-    width: 100vw;
+    height: 100dvh;
+    width: 100dvh;
     background-color: #757171f5;
 }
 
